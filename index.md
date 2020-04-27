@@ -28,7 +28,7 @@
 <img src="images/networking.jpg?raw=true"/>
 
 ---
-[CS48 University Club Rater Project Website](https://clubselector-2394a.firebaseapp.com)<br>
+[UCSB Club Rater Website](https://clubselector-2394a.firebaseapp.com)<br>
 [Code](https://github.com/NathanWoo/CS48.git)
 <img src="images/clubs.jpg?raw=true"/>
 
